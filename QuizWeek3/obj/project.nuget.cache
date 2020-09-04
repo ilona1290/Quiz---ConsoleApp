@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XaRq3T0eQxh7LXeo5QrSM33W0iBE3dIWNv1f1NYwj+nDfq35Mr0ySuj3KeJk3ggVfOF8hCYQ4WwRfhLt3yeQ9A==",
+  "success": true,
+  "projectFilePath": "D:\\QuizWeek3\\QuizWeek3\\QuizWeek3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

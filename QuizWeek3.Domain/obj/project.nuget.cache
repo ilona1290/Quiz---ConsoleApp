@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXjLLkW2PSLulmQFaLzjLcNqS2Fn49oCMh/hrDmfVGZjtxSOOax9SjINY9PIqp6yPzX0UPWLBIelVnJN0H7rDQ==",
+  "success": true,
+  "projectFilePath": "D:\\QuizWeek3\\QuizWeek3.Domain\\QuizWeek3.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,74 @@
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.AssemblyInfo.cs
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.exe
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.deps.json
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.runtimeconfig.json
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.runtimeconfig.dev.json
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.dll
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.pdb
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.App.dll
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.Domain.dll
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.App.pdb
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.Domain.pdb
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csproj.CopyComplete
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.dll
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.pdb
+C:\Users\HP\Desktop\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.genruntimeconfig.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.exe
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.deps.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.runtimeconfig.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.App.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.Domain.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.App.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.Domain.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.AssemblyInfo.cs
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csproj.CopyComplete
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 4 - Testowanie\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.genruntimeconfig.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.exe
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.deps.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.runtimeconfig.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.App.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.Domain.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.App.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.Domain.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.AssemblyInfo.cs
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csproj.CopyComplete
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.dll
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.pdb
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.genruntimeconfig.cache
+C:\Users\HP\Desktop\Zostań programistą ASP.NET\Tydzień 5 - Praca z danymi\Praca domowa\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.exe
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.deps.json
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.runtimeconfig.json
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.runtimeconfig.dev.json
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.dll
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.pdb
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.App.dll
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.Domain.dll
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.App.pdb
+D:\QuizWeek3\QuizWeek3\bin\Debug\netcoreapp3.1\QuizWeek3.Domain.pdb
+D:\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csprojAssemblyReference.cache
+D:\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.AssemblyInfoInputs.cache
+D:\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.AssemblyInfo.cs
+D:\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csproj.CoreCompileInputs.cache
+D:\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.csproj.CopyComplete
+D:\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.dll
+D:\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.pdb
+D:\QuizWeek3\QuizWeek3\obj\Debug\netcoreapp3.1\QuizWeek3.genruntimeconfig.cache
